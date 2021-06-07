@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="313.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.yakovlev.controllers.RolesModeController">
+   <children>
+      <Button onAction="#chooseAdmin" layoutX="48.0" layoutY="63.0" mnemonicParsing="false" prefHeight="66.0" prefWidth="205.0" text="gibdd_admin">
+         <font>
+            <Font size="18.0" />
+         </font></Button>
+      <Button onAction="#chooseInspector" layoutX="48.0" layoutY="173.0" mnemonicParsing="false" prefHeight="66.0" prefWidth="205.0" text="gibdd_inspector">
+         <font>
+            <Font size="18.0" />
+         </font></Button>
+   </children>
+</AnchorPane>

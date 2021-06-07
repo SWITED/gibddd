@@ -1,0 +1,17 @@
+CREATE ROLE gibdd_admin;
+GRANT ALL ON car_brands TO gibdd_admin;
+GRANT ALL ON organizations TO gibdd_admin;
+GRANT ALL ON plates TO gibdd_admin;
+GRANT ALL ON car_types TO gibdd_admin;
+GRANT ALL ON free_plates TO gibdd_admin;
+GRANT ALL ON technical_inspections TO gibdd_admin;
+GRANT ALL ON wanted_cars TO gibdd_admin;
+GRANT ALL ON ta_types TO gibdd_admin;
+GRANT ALL ON traffic_accidents TO gibdd_admin;
+GRANT ALL ON ta_affected_vehicles TO gibdd_admin;
+
+
+
+CREATE ROLE gibdd_inspector;
+GRANT ALL ON plates TO gibdd_inspector;
+GRANT ALL ON technical_inspections TO gibdd_inspector;

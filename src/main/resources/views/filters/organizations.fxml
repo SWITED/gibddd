@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.yakovlev.controllers.filters.OrganizationsController">
+   <children>
+      <VBox prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <StackPane prefHeight="50.0" prefWidth="200.0">
+               <children>
+                  <Label text="Перечень и общее число организаций, которым выделены номера либо с указанной серией, либо за указанный период. " textAlignment="CENTER" wrapText="true">
+                     <font>
+                        <Font size="14.0" />
+                     </font></Label>
+               </children></StackPane>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="600.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="140.0">
+                     <children>
+                        <Label text="Серия">
+                           <font>
+                              <Font size="14.0" />
+                           </font></Label>
+                        <TextField fx:id="series" alignment="CENTER" promptText="AAAA" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="10.0" right="10.0" />
+                     </HBox.margin>
+                  </VBox>
+
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="140.0">
+                     <children>
+                        <Label text="Начальная дата">
+                           <font>
+                              <Font size="14.0" />
+                           </font></Label>
+                        <TextField fx:id="startDate" alignment="CENTER" promptText="01.01.2021" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="10.0" right="10.0" />
+                     </HBox.margin>
+                  </VBox>
+
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="140.0">
+                     <children>
+                        <Label text="Конечная дата">
+                           <font>
+                              <Font size="14.0" />
+                           </font></Label>
+                        <TextField fx:id="endDate" alignment="CENTER" promptText="31.12.2021" />
+                     </children>
+                     <HBox.margin>
+                        <Insets left="10.0" right="10.0" />
+                     </HBox.margin>
+                  </VBox>
+                  <Button mnemonicParsing="false" onAction="#filter" text="Ок" />
+               </children>
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin></HBox>
+            <TableView prefHeight="250.0" prefWidth="600.0" fx:id="mainTable">
+              <columns>
+                <TableColumn prefWidth="75.0" text="C1" />
+                <TableColumn prefWidth="75.0" text="C2" />
+              </columns>
+            </TableView>
+         </children></VBox>
+   </children>
+</AnchorPane>

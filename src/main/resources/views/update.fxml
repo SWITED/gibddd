@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="200.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.yakovlev.controllers.UpdateController">
+   <children>
+      <VBox prefHeight="200.0" prefWidth="400.0">
+         <children>
+            <GridPane fx:id="tableGrid" alignment="CENTER" prefHeight="100.0" prefWidth="400.0">
+      
+              <columnConstraints>
+                <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="194.0" minWidth="10.0" prefWidth="150.0" />
+                <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" maxWidth="270.0" minWidth="10.0" prefWidth="250.0" />
+              </columnConstraints>
+               <padding>
+                  <Insets right="10.0" top="20.0" />
+               </padding>
+            </GridPane>
+            <StackPane prefHeight="50.0" prefWidth="200.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#updateRecord" text="Обновить">
+                     <StackPane.margin><Insets bottom="10" top="5" /></StackPane.margin>
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </Button>
+               </children>
+            </StackPane>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4e898f6-44d3-4c9e-bdcf-572fbb11150c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qYpQqXCttE4yIPKSVLX6YYwhG8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/views" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.yakovlev.database.types" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/views" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.yakovlev.Main" />
+      <module name="gibdd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.yakovlev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4e898f6-44d3-4c9e-bdcf-572fbb11150c" name="Default Changelist" comment="" />
+      <created>1617266364800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617266364800</updated>
+      <workItem from="1617266370049" duration="5274000" />
+      <workItem from="1617271866064" duration="110000" />
+      <workItem from="1617272018385" duration="1325000" />
+      <workItem from="1617341013218" duration="772000" />
+      <workItem from="1617341822848" duration="9333000" />
+      <workItem from="1617363777843" duration="9635000" />
+      <workItem from="1617375781608" duration="6878000" />
+      <workItem from="1617946262846" duration="10495000" />
+      <workItem from="1619158924087" duration="776000" />
+      <workItem from="1619160183349" duration="805000" />
+      <workItem from="1619161017519" duration="56000" />
+      <workItem from="1619161098873" duration="536000" />
+      <workItem from="1619161665207" duration="144000" />
+      <workItem from="1619161835566" duration="414000" />
+      <workItem from="1619162883885" duration="3208000" />
+      <workItem from="1619166634906" duration="6655000" />
+      <workItem from="1619188352370" duration="3415000" />
+      <workItem from="1619191940179" duration="3473000" />
+      <workItem from="1619195583423" duration="3222000" />
+      <workItem from="1619231734166" duration="71000" />
+      <workItem from="1619242741309" duration="6248000" />
+      <workItem from="1619249040817" duration="5573000" />
+      <workItem from="1619254666260" duration="6477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="444" y="116" key="#Project_Structure" timestamp="1619159043478">
+      <screen x="0" y="26" width="1920" height="1026" />
+    </state>
+    <state x="444" y="116" key="#Project_Structure/0.26.1920.1026@0.26.1920.1026" timestamp="1619159043478" />
+    <state x="298" y="155" width="875" height="521" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619260346080">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state x="298" y="155" width="875" height="521" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.714@0.24.1366.714" timestamp="1619260346080" />
+    <state x="1785" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617364506011" />
+    <state x="419" y="214" width="1081" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.26.1920.1026@0.26.1920.1026" timestamp="1619160156049" />
+    <state x="2135" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1617955241702">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2135" y="227" key="#com.intellij.ide.util.MemberChooser/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617955241702" />
+    <state x="694" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619165566135">
+      <screen x="0" y="26" width="1920" height="1026" />
+    </state>
+    <state x="694" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.26.1920.1026@0.26.1920.1026" timestamp="1619165566135" />
+    <state x="744" y="296" key="FileChooserDialogImpl" timestamp="1619161713252">
+      <screen x="0" y="26" width="1920" height="1026" />
+    </state>
+    <state x="744" y="296" key="FileChooserDialogImpl/0.26.1920.1026@0.26.1920.1026" timestamp="1619161713252" />
+    <state width="1320" height="151" key="GridCell.Tab.0.bottom" timestamp="1619261505632">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="151" key="GridCell.Tab.0.bottom/0.24.1366.714@0.24.1366.714" timestamp="1619261505632" />
+    <state width="1874" height="201" key="GridCell.Tab.0.bottom/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1619231803899" />
+    <state width="1874" height="335" key="GridCell.Tab.0.bottom/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839990" />
+    <state width="1320" height="151" key="GridCell.Tab.0.center" timestamp="1619261505631">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="151" key="GridCell.Tab.0.center/0.24.1366.714@0.24.1366.714" timestamp="1619261505631" />
+    <state width="1874" height="201" key="GridCell.Tab.0.center/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1619231803899" />
+    <state width="1874" height="335" key="GridCell.Tab.0.center/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839990" />
+    <state width="1320" height="151" key="GridCell.Tab.0.left" timestamp="1619261505631">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="151" key="GridCell.Tab.0.left/0.24.1366.714@0.24.1366.714" timestamp="1619261505631" />
+    <state width="1874" height="201" key="GridCell.Tab.0.left/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1619231803899" />
+    <state width="1874" height="335" key="GridCell.Tab.0.left/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839990" />
+    <state width="1320" height="151" key="GridCell.Tab.0.right" timestamp="1619261505631">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="151" key="GridCell.Tab.0.right/0.24.1366.714@0.24.1366.714" timestamp="1619261505631" />
+    <state width="1874" height="201" key="GridCell.Tab.0.right/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1619231803899" />
+    <state width="1874" height="335" key="GridCell.Tab.0.right/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839990" />
+    <state width="1320" height="289" key="GridCell.Tab.1.bottom" timestamp="1619261505621">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="289" key="GridCell.Tab.1.bottom/0.24.1366.714@0.24.1366.714" timestamp="1619261505621" />
+    <state width="1874" height="295" key="GridCell.Tab.1.bottom/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617956764033" />
+    <state width="1874" height="335" key="GridCell.Tab.1.bottom/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839991" />
+    <state width="1320" height="289" key="GridCell.Tab.1.center" timestamp="1619261505621">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="289" key="GridCell.Tab.1.center/0.24.1366.714@0.24.1366.714" timestamp="1619261505621" />
+    <state width="1874" height="295" key="GridCell.Tab.1.center/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617956764033" />
+    <state width="1874" height="335" key="GridCell.Tab.1.center/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839991" />
+    <state width="1320" height="289" key="GridCell.Tab.1.left" timestamp="1619261505620">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="289" key="GridCell.Tab.1.left/0.24.1366.714@0.24.1366.714" timestamp="1619261505620" />
+    <state width="1874" height="295" key="GridCell.Tab.1.left/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617956764033" />
+    <state width="1874" height="335" key="GridCell.Tab.1.left/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839991" />
+    <state width="1320" height="289" key="GridCell.Tab.1.right" timestamp="1619261505621">
+      <screen x="0" y="24" width="1366" height="714" />
+    </state>
+    <state width="1320" height="289" key="GridCell.Tab.1.right/0.24.1366.714@0.24.1366.714" timestamp="1619261505621" />
+    <state width="1874" height="295" key="GridCell.Tab.1.right/0.24.1366.744/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617956764033" />
+    <state width="1874" height="335" key="GridCell.Tab.1.right/0.26.1920.1026@0.26.1920.1026" timestamp="1619198839991" />
+    <state x="456" y="174" key="SettingsEditor" timestamp="1619162215676">
+      <screen x="0" y="26" width="1920" height="1026" />
+    </state>
+    <state x="456" y="174" key="SettingsEditor/0.26.1920.1026@0.26.1920.1026" timestamp="1619162215676" />
+    <state x="690" y="157" width="538" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619164015584">
+      <screen x="0" y="26" width="1920" height="1026" />
+    </state>
+    <state x="690" y="157" width="538" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.26.1920.1026@0.26.1920.1026" timestamp="1619164015584" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/Main.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>97</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/yakovlev/controllers/AddController.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
